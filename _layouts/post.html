@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<header>
+    <div>{{page.date | date: "%e %b %Y"}} - {{page.author}}</div>
+    <h1>{{ page.title }}&nbsp;{%if page.draft %}(draft)&nbsp;{% endif %}</h1>
+</header>
+
+<section>
+{{ content }}
+</section>
+
+<section>
+  <div>{{page.date | date: "%e %b %Y"}} - {{page.author}}</div>
+  <div><a href="/">oaklandfilmclub.com</a></div>
+</section>

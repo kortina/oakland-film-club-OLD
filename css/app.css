@@ -1,0 +1,48 @@
+body {
+  font-family: "Courier New", monospace;
+  text-align:center;
+  font-size: 150%;
+  line-height:1.25;
+  color: #444;
+}
+
+header, section, footer {
+  text-align: left;
+  max-width: 600px;
+  margin:0 auto;
+}
+
+h1 {
+  font-size:xx-large;
+  font-weight: bold;
+}
+
+h2 {
+  font-size:x-large;
+  font-weight: bold;
+}
+
+h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+p, h1, h2, h3, h4, h5, h6, ul, ol, iframe {
+  margin-bottom:1rem;
+}
+
+blockquote {
+  padding-left:8px;
+  border-left:2px solid #ddd;
+}
+
+b, strong {
+  font-weight:bold;
+}
+
+i {
+  font-style: italic;
+}
+
+ul {
+  list-style-type: disc;
+}
