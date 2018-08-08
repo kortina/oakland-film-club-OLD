@@ -3,7 +3,7 @@ layout: default
 ---
 
 <header>
-    <div>{{page.date | date: "%e %b %Y"}} - {{page.author}}</div>
+    <p>{{page.date | date: "%e %b %Y"}} - {{page.author}}</p>
     <h1>{{ page.title }}&nbsp;{%if page.draft %}(draft)&nbsp;{% endif %}</h1>
 </header>
 
@@ -12,6 +12,6 @@ layout: default
 </section>
 
 <section>
-  <div>{{page.date | date: "%e %b %Y"}} - {{page.author}}</div>
-  <div><a href="/">oaklandfilmclub.com</a></div>
+  <p>{{page.date | date: "%e %b %Y"}} - {{page.author}}</p>
+  <p><a href="/">oaklandfilmclub.com</a></p>
 </section>
