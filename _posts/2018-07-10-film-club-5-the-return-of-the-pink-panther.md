@@ -8,9 +8,9 @@ author: Kortina
 
 Clouseau's ridiculous accent and dialog are hilarious, but there's also tons of great physical humor in this film, so I wanted to start with this short on physical comedy:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1PCtIaM_GQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include embed.html url="https://www.youtube.com/embed/Z1PCtIaM_GQ" autoplay="0" %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kHpXle4NqWI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include embed.html url="https://www.youtube.com/embed/kHpXle4NqWI" autoplay="0" %}
 
 While Mr Bean is an older show that carried the tradition in tone of Sellers in the Pink Panther, Archer feels like the closest modern show carrying the torch of a ridiculous detective solving crimes despite his seeming idiocy. If there is any big idea in all of these films, perhaps that idiocy and a complete lack of awareness for oneself and any sort of social EQ is a sort of superpower.
 

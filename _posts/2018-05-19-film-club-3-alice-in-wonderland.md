@@ -6,7 +6,7 @@ author: Jenny
 
 **Short**
 
-<iframe src="https://player.vimeo.com/video/250482473?color=32CD32&title=0&byline=0&portrait=0" width="570" height="321" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{% include embed.html url="https://player.vimeo.com/video/250482473" autoplay="0" %}
 
 **Pre**
 

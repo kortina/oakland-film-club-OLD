@@ -8,7 +8,7 @@ author: Kortina
 
 Phillip Seymour Hoffman's performance got me thinking about Alan Watts.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1IYwTO4-j8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include embed.html url="https://www.youtube.com/embed/Z1IYwTO4-j8" autoplay="0" %}
 
 * * *
 
@@ -55,8 +55,8 @@ Recommended Reading
 
 [The Directors Series - Paul Thomas Anderson [3.4] in The Directors Series on Vimeo](https://vimeo.com/channels/directorsseries/161329867). I discovered this film essay channel while doing homework for this edition of film club, and it's great. I highly recommend this analysis of There Will Be Blood and The Master. It highlights many of the stylistic and narrative differences of these two films (and Phantom Thread) with earlier PTA films.
 
-<iframe src="https://player.vimeo.com/video/161329867" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+{% include embed.html url="https://player.vimeo.com/video/161329867" autoplay="0" %}
 
 While doing homework, I also came across this very early short film from PTA (which he later expanded into the feature film *Hard Eight* at the Sundance Institute):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfk1b65lb-M?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include embed.html url="https://www.youtube.com/embed/lfk1b65lb-M?rel=0" autoplay="0" %}

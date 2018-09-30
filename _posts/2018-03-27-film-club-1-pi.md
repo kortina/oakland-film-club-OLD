@@ -42,4 +42,4 @@ Mathematics is the cathedral of pure reason, attractive, I think to the minds th
 
 Ultimately, I think Pi amounts to a warning about the limits of using pure reason to search for the meaning of life.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_tcW-j7KFgY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include embed.html url="https://www.youtube.com/embed/_tcW-j7KFgY" autoplay="0" %}

@@ -8,13 +8,13 @@ author: Kortina
 
 The most striking thing about this film to me is all of the allusions and parallels to *Goodfellas*. Before we begin the main feature, let's take a quick look at the opening of *Goodfellas*:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gt2kffPZhLE?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include embed.html url="https://www.youtube.com/embed/Gt2kffPZhLE" autoplay="0" %}
 
 **Post**
 
 cf, the opening scene of *The Wolf of Wall Street*:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Vg7DLT2cew" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include embed.html url="https://www.youtube.com/embed/9Vg7DLT2cew" autoplay="0" %}
 
 Both films are narrated by a hero/criminal who's ultimately caught and nostalgic for the 'old days' when they lived a life of crime, above the law.
 
@@ -24,5 +24,5 @@ Like *Goodfellas*, *The Wolf of Wall Street* depicts a world of drugs, money, se
 
 Sound and Silence in the films of Scorcese (I put this at the end because there are some spoilers):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NUrTRjEXjSM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include embed.html url="https://www.youtube.com/embed/NUrTRjEXjSM" autoplay="0" %}
 
