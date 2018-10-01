@@ -36,7 +36,11 @@ From the vantage point of 2018, watching this film and footage from WW2 in gener
 
 > Leopards invade the temples and drink the wine from the chalices; this happens suddenly; in the end it was foreseen that this would happen and it is incorporated into the liturgy.
 
+___
+
 > Kris argued that when an artist produces a powerful image out of his or her life experiences and conflicts, that image is inherently ambiguous. The ambiguity in the image elicits both a conscious and unconscious process of recognition in the viewer, who responds emotionally and emphatically to the image in terms of his or her own life experiences and struggles.  Thus, just as the artist creates a work of art, so the viewer re-creates it by responding to its inherent ambiguity.  the extent of the beholder’s contribution depends on the degree of ambiguity in the work of art…Kris argues that ambiguity enables the artist to transmit his own sense of conflict and complexity to the viewer’s brain.
+
+___
 
 > Paranoia is the Truman show, it is Albert Camus's absurdity, it is disillusionment. in today's context it is the deep feeling of impotence, the suspicion that causality is imagined. it is our conscious self declaring an unfamiliarity with itself, despite its own intimate proximity. it is the plausibility of our actions as consequence of our psychology as consequence of our impressions as consequence of what is effectively random entropy. it is, at its core, an articulation of an explanation for human action. it is imposed on us through illustrations of patterned complexity juxtaposed with suggestions of cognitive and physical inadequacy.
 
