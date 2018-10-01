@@ -5,9 +5,10 @@ author: robcheung
 ---
 
 ***Pre***
+
 I won’t say much before the film, as there is a long Post section, but some things to know about the story of how Overlord came to be:
 
-Stuart Cooper was commissioned originally in 1971 to do a documentary for the Imperial War Museum in Britain about a very large embroidery that was made to commemorate the Normandy Landing. He never finished this, but in the process of making it, got access to the museum’s over 39 million feet of footage from WW2. At some point over the 4 years he spent in and out of the museum watching nearly 3000 hours of footage, he came up with the idea of making a mixed medium documentary dramatic film that combined this archival footage with a staged wartime story. John Alcott, most well known for being Stanley Kubrick’s cinematographer, worked with Cooper to shoot the film, choosing to first scour London for old German period Lenses so that the footage would match. Kubrick on seeing this film says to Cooper, ‘You know Stu, I’ve got one problem with the film. ... The only thing wrong with Overlord is it's an hour and a half too short.’ and I feel pretty similarly.
+Stuart Cooper was commissioned originally in 1971 to do a documentary for the Imperial War Museum in Britain about a very large embroidery that was made to commemorate the Normandy Landing. He never finished this, but in the process of making it, got access to the museum’s over 39 million feet of footage from WW2. At some point over the 4 years he spent in and out of the museum watching nearly 3000 hours of footage, he came up with the idea of making a mixed medium documentary dramatic film that combined this archival footage with a staged wartime story. John Alcott, most well known for being Stanley Kubrick’s cinematographer, worked with Cooper to shoot the film, choosing to first scour London for old German period Lenses so that the footage would match. Kubrick on seeing this film says to Cooper, ‘You know Stu, I’ve got one problem with the film. ... The only thing wrong with Overlord is it's an hour and a half too short.’, and I feel pretty similarly.
 
 {% include embed.html url="https://youtu.be/MkTw3_PmKtc" autoplay="0" %}
 
