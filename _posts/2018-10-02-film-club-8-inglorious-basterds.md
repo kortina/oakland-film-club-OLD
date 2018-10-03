@@ -10,7 +10,7 @@ This week, I chose Quentin Tarantino's [Ingloriuos Basterds](https://g.co/kgs/LX
 
 Per usual, I want to start with a short clip that I found while preparing for this week's edition. I went deep into some Tarantino interview rabbitholes over the weekend, and came across this spectacular clip from [Sleep with Me](https://g.co/kgs/vRPLae), a 1994 comedy with scenes authored by six different writers. Tarantino and Roger Avery wrote this scene about the homoerotic subtext of *Top Gun*:
 
-{% include embed.html url="https://youtu.be/gSV35A1cQDM" autoplay="0" %}
+{% include embed.html url="https://www.youtube.com/embed/gSV35A1cQDM" autoplay="0" %}
 
 ***Post***
 
