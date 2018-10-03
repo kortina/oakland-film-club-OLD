@@ -10,7 +10,7 @@ This week, I chose Quentin Tarantino's [Ingloriuos Basterds](https://g.co/kgs/LX
 
 Per usual, I want to start with a short clip that I found while preparing for this week's edition. I went deep into some Tarantino interview rabbitholes over the weekend, and came across this spectacular clip from [Sleep with Me](https://g.co/kgs/vRPLae), a 1994 comedy with scenes authored by six different writers. Tarantino and Roger Avery wrote this scene about the homoerotic subtext of *Top Gun*:
 
-{% include embed.html url="https://www.youtube.com/embed/PRwud05YMHI" autoplay="0" %}
+{% include embed.html url="https://youtu.be/gSV35A1cQDM" autoplay="0" %}
 
 ***Post***
 
@@ -53,7 +53,7 @@ Landa's logic, while perhaps completely rational given a certain set of axioms a
 
 WWII was a sobering reminder that while we have much to be thankful for in the Enlightenment and progress in rational thinking, pure reason -- like evolutionary biology and the survival of the fittest -- can lead to inhumane outcomes. In Star Trek terms -- it's good to have both Spock and Kirk, working together.
 
-I've always thought it was admirable that the human species rejected the survival of the fittest and developed mores to protect the lives of every human, not simply the most fit. I'm not sure this message was Tarantino's intention with the film, but it is the idea that comes to my mind after watching it again.
+I've always thought it was admirable that the human species rejected the survival of the fittest and developed mores to protect the lives of every human, not simply the most fit. I'm not sure this message was not Tarantino's intention with the film, but it is the idea that comes to my mind after watching it again.
 
 * * *
 
