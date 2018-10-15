@@ -4,7 +4,7 @@ title: "Film Club #8 // Inglorious Basterds"
 author: kortina
 ---
 
-***Pre***
+### Pre
 
 This week, I chose Quentin Tarantino's [Ingloriuos Basterds](https://g.co/kgs/LXsmxM) for our film, as a follow up to Rob's last pick, another WWII film, [Overlord](https://g.co/kgs/iD55ik). Where *Overlord* has an overwhelming dehumanizing tone of alienation, *Inglorious Basterds* feels, in contrast, deeply human and personal. That's all I'll say about the film before we watch it.
 
@@ -12,7 +12,7 @@ Per usual, I want to start with a short clip that I found while preparing for th
 
 {% include embed.html url="https://www.youtube.com/embed/gSV35A1cQDM" autoplay="0" %}
 
-***Post***
+### Post
 
 I've never found the ultraviolence in Tarantino's films disturbing, and was struck by this more so in *Inglorious Basterds*, as this is a war movie, and often the climactic or disturbing moments in war movies are scenes from the battle fields of death and gore (cf. *Saving Private Ryan*, *Gettysburg*, and countless others).
 

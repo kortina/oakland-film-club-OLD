@@ -4,7 +4,7 @@ title: "Film Club #7 // Overlord (1975)"
 author: robcheung
 ---
 
-***Pre***
+### Pre
 
 I won’t say much before the film, as there is a long Post section, but some things to know about the story of how Overlord came to be:
 
@@ -14,7 +14,7 @@ Stuart Cooper was commissioned originally in 1971 to do a documentary for the Im
 
 ..
 
-***Post***
+### Post
 
 Prefix: I realized part-way into writing this, that my response to this film is, in principle, exactly the same as my response to my last film club pick, namely that it is difficult to engage in objective interpretation when your subject is intentionally an abstract work, which of course turns interpretation into an exercise over one’s own memories and ideas, bringing to bear what art historians and cognitive scientists call the beholder’s share. This time around I will try and carry the idea through rather than just express the idea.
 

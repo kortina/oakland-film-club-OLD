@@ -4,7 +4,7 @@ title: "Film Club #4 // The Master"
 author: Kortina
 ---
 
-**Warm Up**
+### Warm Up
 
 Phillip Seymour Hoffman's performance got me thinking about Alan Watts.
 
@@ -18,7 +18,7 @@ Phillip Seymour Hoffman's performance got me thinking about Alan Watts.
 
 * * *
 
-**Pre**
+### Pre
 
 This film holds many favorites for me. Paul Thomas Anderson, one of my favorite directors. Joaquin Phoenix, one of my favorite actors. Philip Seymour Hoffman, another favorite actor.
 
@@ -34,7 +34,7 @@ Although it was PTA's next film after There Will Be Blood (2007), which was nomi
 
 The film was finally released in 2012, years after PTA began working on it in 2009, however, and was nominated for 3 Academy Awards.
 
-**Post**
+### Post
 
 *The Master*, like There Will Be Blood and Phantom Thread, is an intimate portrait of a power struggle between the two lead characters. And, like the other films in this 'trilogy,' the leads are somewhat despicable in pursuit of their passions, which impede their ability to connect with each other (and with others).\
 Watching *The Master* shortly after having watched the other two films, what stood out to me were the various character arcs of each of the main characters.\

@@ -4,7 +4,7 @@ title: "Film Club #1 // Pi"
 author: Kortina
 ---
 
-**Pre**
+### Pre
 
 For this first edition of our Film Club, a handful of films came to mind, but many we've watched relatively recently in a casual context--The Great Beauty, Inherent Vice, a few Tarantino and Miyazaki films, for example. So I went through my short list of directors I love, and Darren Aronofsky was at the top.
 
@@ -32,7 +32,7 @@ I came across some notes from the journal Aronofsky kept while making the film t
 
 I'll talk a bit more about why I love this movie after we watch it.
 
-**Post**
+### Post
 
 What I love most about Pi is how well it captures the pervasive feeling of self-inflicted mental torment running throughout the entire film. Our brains are designed to recognize patterns, seek explanations, and the rational mind pursues this objective as a path to progress, excellence, and understanding.
 
