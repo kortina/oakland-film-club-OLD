@@ -15,8 +15,6 @@ We'll start with this:
 
 ### Post
 
-*(kortina)*
-
 I always feel a little conflicted about Wes Anderson films -- I generally like them, but feel like it's some sort of guilty pleasure, I think because the jokes and visual aesthetics are so perfectly hip and ironic, and indulging in them makes me feel like an early 2000s Williamsburg hipster.
 
 This love / hate feeling of mine extends beyond the aesthetics and humor to the characters, who are all somehow fuckups or somewhat despicable. In this [interview with the Guardian](https://www.theguardian.com/film/2005/feb/12/features.weekend) about *The Life Aquatic,* Anderson says of his characters:
@@ -29,7 +27,7 @@ This love / hate feeling of mine extends beyond the aesthetics and humor to the 
 
 Most of the protagonists are horrible fathers or mothers or friends in some way, but we generally encounter them confronting some sort of grief, depression, or despair.
 
-There is some universal that Anderson is pointing to here, getting us to acknowledge that we have a shared humanity with everyone--even the fuckups and despicable people--by evoking our pity for them in their moments of darkness.
+By evoking our pity for even the fuckups and antiheroes, Anderson gets to acknowledge our shared humanity with even them, pointing at some sort of universal, of, perhaps, suffering.
 
 I often find some sort of solace in the denouement of Anderson's films, like the letter to Grace at the end of *Bottle Rocket*:
 
