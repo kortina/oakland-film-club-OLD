@@ -6,10 +6,11 @@ h = .5631 * w
   class="video-embed"
   width="{{include.width | default:"700"}}"
   height="{{include.height | default:"394"}}"
-  src="{{include.url}}?rel=0&amp;showinfo=0&rel=0&autoplay={{include.autoplay | default:"1"}}"
+  src="{{include.url}}?rel=0&amp;showinfo=0&rel=0&autoplay={{include.autoplay | default:"0"}}"
   frameborder="0"
   allow="autoplay; fullscreen"
-  allowfullscreen></iframe>
+  allowfullscreen
+  ></iframe>
 {% endif %}{% if include.url contains 'vimeo.com' %}
 <iframe
   class="video-embed"
@@ -20,7 +21,18 @@ h = .5631 * w
   webkitallowfullscreen
   allow="autoplay; fullscreen"
   mozallowfullscreen
-  allowfullscreen></iframe>
+  allowfullscreen
+  ></iframe>
+{% endif %}{% if include.url contains 'dailymotion.com' %}
+<iframe
+  class="video-embed"
+  frameborder="0"
+  width="{{include.width | default:"700"}}"
+  height="{{include.height | default:"394"}}"
+  src="{{include.url}}?autoplay={{include.autoplay | default:"0"}}"
+  allow="autoplay; fullscreen"
+  allowfullscreen
+></iframe>
 {% endif %}{% if include.url contains 'soundcloud.com' %}
 <iframe
   width="{{include.width | default:"700"}}"

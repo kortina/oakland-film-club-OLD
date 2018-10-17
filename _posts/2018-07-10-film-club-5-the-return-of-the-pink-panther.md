@@ -4,7 +4,7 @@ title: "Film Club #5 // The Return of the Pink Panther"
 author: Kortina
 ---
 
-**Pre**
+### Pre
 
 Clouseau's ridiculous accent and dialog are hilarious, but there's also tons of great physical humor in this film, so I wanted to start with this short on physical comedy:
 
@@ -26,7 +26,7 @@ Edwards and Sellers returned as Clouseau for The Pink Panther Strikes Again and 
 
 Sellers came to resent having to portray the comic caricature over and over when he would have preferred to be a handsome, polished leading man. He became more and more difficult to direct ultimately leading Edwards to say "The most fun and the worst times were with Peter," Edwards said in 2002. "When he was at the top of his form, he was great fun. When he was in his depressed, angry world, he was impossible."
 
-**Post**
+### Post
 
 There's not a ton of critical analysis that leaps to mind about The Return of the Pink Panther. So rather than analyzing the deep meaning of the film, I think it makes more sense to talk about what makes it great and different than a comedy that gets made today.
 

@@ -44,7 +44,7 @@ b, strong {
   font-weight:bold;
 }
 
-i {
+i, em {
   font-style: italic;
 }
 

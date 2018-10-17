@@ -4,13 +4,13 @@ title: "Film Club #6 // The Wolf of Wall Street"
 author: Kortina
 ---
 
-**Pre**
+### Pre
 
 The most striking thing about this film to me is all of the allusions and parallels to *Goodfellas*. Before we begin the main feature, let's take a quick look at the opening of *Goodfellas*:
 
 {% include embed.html url="https://www.youtube.com/embed/Gt2kffPZhLE" autoplay="0" %}
 
-**Post**
+### Post
 
 cf, the opening scene of *The Wolf of Wall Street*:
 

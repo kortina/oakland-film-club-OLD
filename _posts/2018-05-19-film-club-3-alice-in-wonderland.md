@@ -4,11 +4,11 @@ title: "Film Club #3 // Alice in Wonderland"
 author: Jenny
 ---
 
-**Short**
+### Short
 
 {% include embed.html url="https://player.vimeo.com/video/250482473" autoplay="0" %}
 
-**Pre**
+### Pre
 
 'If I had a world of my own everything would be nonsense'
 
@@ -30,7 +30,7 @@ A brief production history
 
 Other than the illustrations, the music is really what brings the film alive. In an effort to retain some of Carroll's imaginative verses and poems, Disney commissioned top songwriters to compose songs built around them for use in the film. A record number of potential songs were written for the film, based on Carroll's verses---over 30---and many of them found a way into the film, if only for a few brief moments. Alice in Wonderland would boast the greatest number of songs included in any Disney film.
 
-**Post**
+### Post
 
 Originally Alice in Wonderland was not received well, and Walt Disney tried to avoid responsibility for it by claiming he'd never wanted to make it.
 
