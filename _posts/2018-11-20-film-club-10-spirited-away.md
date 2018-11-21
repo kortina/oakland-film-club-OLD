@@ -60,3 +60,5 @@ one that is both familiar and full of surprise,
 at the same time. It's almost like he has the eyes
 and imagination of a child, and he can take us with
 him on his fantastic journeys of the imagination.
+
+> Isn't it fun to see things that way?
