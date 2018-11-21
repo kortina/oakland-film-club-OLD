@@ -48,24 +48,15 @@ For the first ten minutes, I remember thinking, *yea, it's not another Mononoke.
 But after about thirty minutes, I was transfixed, and felt myself 'spirited away'
 into the strange world of the film.
 
-I find very few films that are able to fabricate such an extensive
-world from scratch and transport you so far from reality. This feeling is
-for me what film can be at its best.
+I think perhaps Miyazaki may be the film maker who has most often
+led me to this other worldly experience. I felt this way after both *Spirited Away* and *Mononoke*, and with what are now my two favorite Miyazaki films,
+*Porco Rosso* and *The Wind Rises.*
 
-It was perhaps because the film so far exceeded my initially low expectations that
-*Spirited Away* was for many years my favorite Miyazaki film, even over *Mononoke*,
-which I love.
-
-Years later, I had a similar experience, where I finally got around to watching *Porco Rosso*.
-By this point, I had exhausted much of the Miyazaki catalog,
-and just hadn't gotten around to *Porco Rosso* because I think
-maybe the title got me thinking it would be too much of a story for kids
-to be one of his best.
-
-But *Porco Rosso* likewise exceeded all of my expectations, taking me totally by surprise.
-
-I cannot recommend *Porco Rosso* enough if tonight was your first encounter with Miyazaki and you enjoyed the film.
-
-The other film I'll recommend, which is probably my favorite Miyazaki, is *The Wind Rises.*
-
-Enjoy the rabbithole...
+What I like about that clip we started the evening with is how
+it gets at what makes Miyazaki so special--his ability to look
+at the ordinary and everyday with so much imagination,
+to transform this world into an entirely new one,
+one that is both familiar and full of surprise,
+at the same time. It's almost like he has the eyes
+and imagination of a child, and he can take us with
+him on his fantastic journeys of the imagination.
