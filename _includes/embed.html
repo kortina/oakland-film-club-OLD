@@ -43,10 +43,10 @@ h = .5631 * w
   src="{{include.url}}"
   ></iframe>
 {% endif %}{% if include.type == 'figimage' %}
-<figure class="image-regular image-pwidth"><img 
+<figure><img 
   {% if include.style %}style="{{include.style}}"{% endif %}
   src="{{include.url}}" 
-/><figcaption class="image-caption">{{include.caption}}</figcaption>
+/><figcaption>{{include.caption}}</figcaption>
 </figure>
 {% endif %}
 
