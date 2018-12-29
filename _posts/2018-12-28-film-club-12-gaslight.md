@@ -12,6 +12,8 @@ This week's pick is another noir, [Gaslight](https://g.co/kgs/z8Niyy).
 
 I have a bit of a rambling preamble, which has no spoilers because it has little to do with this movie specifically.
 
+Last time, when we were discussing *Ace in the Hole*, I mentioned that it evoked this growing sense of paranoia I've had, and I thought I'd talk about that a bit more before we start.
+
 Over the past year or two, at what seems to be an accelerating rate, I've found a noir tinge to many of my own social interactions...
 
 A glance exchanged in the hallway, where you catch what you are sure is a look of utter despair in the eyes of your neighbor, like they have just been staring straight into the abyss and have not yet had time to compose themselves before your encounter...
