@@ -44,5 +44,10 @@ Like the 80s action films it had ridiculous violence -- the wood chipper scene i
 
 I've heard people critique late disco music for being "all production" -- the production quality is high, but when you strip it away, there is no substance underneath. This is exactly how I'd describe the majority of the film canon I grew up watching on my old UHF Sony TV.
 
-And Fargo might be the first really great movie I fell in love with.
+It is interesting to recall all of these memories in the context of Fargo, which has a throwback aesthetic and is very much concerned with comparing our relationship to drama in media vs in 'real' life.
 
+It's full of shots of people staring at the television, engrossed, and then reacting without emotion to the drama of kidnapping and murder -- the film essay I included above explores in great detail what the film has to say about media desensitization, so I won't go into too much depth here.
+
+Rather I'll speak from personal experience and my own susceptibility to the melodrama of cinema. I rarely am moved to tears by the events in my own life, but often find myself overwhelmed by a film. Just this past weekend I saw a film at Sundance, The Boy Who Harnessed the Wind, and found myself wiping my eyes at several points.
+
+On the one hand, I love that film can evoke this depth of reaction. On the other hand, it makes me wonder about the depth of experience of my life. Is it a great privilege to live in such comfort that I am rarely moved to tears, rarely confronted by tragedy, rarely witness to beautiful self-sacrifice? Or does this entail that my life is a shallow retreat from a set of deep and important experiences?
