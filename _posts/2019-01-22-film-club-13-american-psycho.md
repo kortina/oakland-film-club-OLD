@@ -27,7 +27,7 @@ Two other non-sequiturs:
 
 For those of you who don’t know, Venkat Rao is an [internet blogger](https://www.ribbonfarm.com) who focuses on writing essays to ‘refactor’ modern conceptions. Within this subculture, he’s known to use 2x2 matrices as a rhetorical device to explore possibility spaces, often in very insightful ways. It feels appropriate, despite the fact that I hate when people do this, that I make my next point with a cheap détournment of a subcultural symbol:
 
-{% include embed.html type="figimage" url="/img/posts/013-ampsy-venkat.png" caption="doctored tweet" %}
+{% include embed.html type="figimage" url="/img/posts/13-ampsy-venkat.png" caption="doctored tweet" %}
 
 
 It’s a cheeky matrix for sure; you’re first impression of it is that it’s ironic since you’re expecting the axes to be labelled with duals, but they’re clearly not duals, but then you think about it for a second and see that it describes a pretty broad possibility space, and start to see how they might be duals. But now I’m hijacking the sentiment to apply it to the theme of this movie. While you’re in the headspace of the hyperreal, I think here it’s illustrative on different levels. 
