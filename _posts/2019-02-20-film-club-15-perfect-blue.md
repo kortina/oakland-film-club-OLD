@@ -8,7 +8,7 @@ author: robertcheung
 
 I’ll start by showing the last thing that Satoshi finished before his unexpected death in 2010. It’s a short that describes the feeling of waking up titled “Ohayo”, which means “good morning” or “hello” in Japanese. Then I’ll read a page from Borges that is thematically relevant to Perfect Blue called “Borges and I”.
 
-{% include embed.html url="https://www.youtube.com/watch?v=qYUFBnAmK28" autoplay="0" %}
+{% include embed.html url="https://www.youtube.com/embed/qYUFBnAmK28" autoplay="0" %}
 
 >Jorge Luis Borges - "Borges and I"
 >
