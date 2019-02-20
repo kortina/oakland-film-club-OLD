@@ -2,7 +2,7 @@
 layout: post
 title: "Film Club #15 // Perfect Blue"
 author: robertcheung
-page_styles: "font-family: Arial, Sans, serif;font-size: 14px;"
+page_styles: "font-family: 'Open Sans', Arial, Sans, serif;font-size: 14px;"
 ---
 
 ### Pre
