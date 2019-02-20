@@ -21,7 +21,7 @@ I’ll start by showing the last thing that Satoshi finished before his unexpect
 ..
 
 ### Post
-
+<html style="font-family: Arial, sans-serif;">
 “Looking at things objectively or subjectively gives two very different images. For an outsider, the dreams and the film within a film are easy to separate from the real world. But for the person who is experiencing them, everything is real. I want to describe that kind of situation.
 
 Borges, in one of his early essays, The Nothingness of Personality, attempts to 'prove that personality is a mirage maintained by conceit and custom, without metaphysical foundation or visceral reality' by making the case that the notion of Self is overemphasized in modern culture. He demonstrates that he is not alone in his thinking of himself as a curious synecdoche by citing many others who feel the same way:
@@ -142,6 +142,6 @@ After I wrote this film club talk, a peculiar thought came to mind about the wri
 >The more obvious response to this rebuttal is that self-conscious work intended for the public is by design more accessible and coherent, and this, given the lack of patience the world at large must withhold from entertaining all deeply-thought-out-but-idiosyncratic articulations by means of a difficult decoding and personal re-encoding of an idea, makes something universally more resilient. Obvious, but still emphasizing appraisal from the perspective of the general public. What I am interested in though, is when there is a loop in the dynamic. Specifically, if someone from artist group "I don't care if others like what I make; I like what I make" tends to like his work more when it's made under the lens of public scrutiny. To be clear, this artist doesn't mind per-se if the public hates, loves, or feels ambivalent about his work. It has simply occurred to him that creation under a simulated sense of being the "I want people to like what I make" artist is indeed a very good vector for creating art that he himself likes. This is one of the ways in which "he" might come to the conclusion that what constitutes "he" is not something singular, but is rather synecdoche for the world which has unmistakably made "him". And when he entertains this one step further, he recognizes that the "world" is itself constituted of many such individuals, meaning that not only is personality fragmented, but that fragments are fragmented, not just in layers, but in cycles. Here again, he rediscovers that he must be Absurd.”
 
 ”
-
+</html>
 ..
 
