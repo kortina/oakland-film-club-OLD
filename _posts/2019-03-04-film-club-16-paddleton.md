@@ -21,7 +21,7 @@ accomplishments and ask, for these characters, "what is a life well lived?"
 
 ### Post
 
-A lot of people I know tell me that my jokes are usually "dad jokes." I have always kind of liked
+A lot of people I know tell me that my jokes are usually "Dad jokes." I have always kind of liked
 Dad jokes, but when people tell you this, they're usually doing it the way they would tell you
 there's a piece of spinach stuck in your teeth, as if you should be embarrassed about your sense of
 humor.
@@ -40,14 +40,13 @@ And I think Romano's sense of humor plays really, really well against the backdr
 cancer.
 
 I always thought that laughing and joking in the face of certain death (the human condition) was one
-of the most courageous acts. This is a somewhat difficult claim to argue, but *Paddleton* does a
+of the most courageous acts. This is a somewhat difficult claim to argue, but _Paddleton_ does a
 nice job of making the case for it.
 
 A few weeks ago, I had this related thought, that goofiness is one of the most authentic forms of
 intimacy. It's a liberty we take when we're in the company of those we feel most comfortable with.
 
-Maybe we get embarrassed on behalf of other people who take the liberty of being goofy in front of
-us before we're ready for that kind of intimacy (hence, people calling you out when you make a Dad
+And, maybe we get embarrassed on behalf of other people who take the liberty of being goofy in front of us before we're ready for that kind of intimacy (hence, people calling you out when you make a Dad
 joke).
 
 When we're goofy, we drop our gravity and cast aside our public image. It's disarming, when you do
@@ -67,18 +66,20 @@ strange objects to vacuum seal: marshmallows, bags of potato chips, peanut shell
 to discover a 25c bag of Lays Classic potato chips that had zero chips in it -- but was sealed and
 filled with air. This felt like a glitch in the matrix, which had slipped through every industrial
 assembly and quality assurance process you have to imagine Lays has perfected, and we estimated it
-was at least 100x -- if not 10,000x more valuable than the standard chip bag filled with chips. We
+was at least 100x -- if not 10,000x -- more valuable than the standard chip bag filled with chips. We
 considered calling the evening news to report the finding, and debated whether or not we should
 vacuum seal this bag.
 
 Pros: preserve the anomalous bag in it's pristine state.
 
-Cons: risk accidental destruction of the remarkable artifact and lose proof of our discovery
+Cons: risk accidental destruction of the remarkable artifact and lose proof of our discovery.
 
-Who would believe us if we destroy the bag? We opted not to risk the vacuum sealing.
+Who would believe us if we were to destroy the bag?
+
+We opted not to risk the vacuum sealing.
 
 The way you laugh during an escapade like this feels different than the way you laugh at ironic
-humor. Ironic humor garners a knowing smile, maybe a chuckle, bug usually a sort of self-confident
+humor. Ironic humor garners a knowing smile, maybe a chuckle, usually a sort of self-confident
 and smug, reserved reaction.
 
 Laughing at goofy humor can make you lose your breath, can make your cheeks hurt, your stomach sore.
