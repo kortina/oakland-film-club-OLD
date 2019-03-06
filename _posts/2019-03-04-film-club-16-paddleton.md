@@ -8,8 +8,7 @@ author: kortina
 
 ### Pre
 
-This was my favorite flick from Sundance this year. I won't give much preface, other than a few
-interesting tidbits the writers (Mark Duplass, Alexandre Lehmann) gave during the q&amp;a.
+[Paddleton](https://www.netflix.com/title/80224060) was my favorite flick from Sundance this year. I won't give much preface, other than a few interesting tidbits the writers (Mark Duplass, Alexandre Lehmann) gave during the q&amp;a.
 
 They wrote the story and characters for the film, but left much of the dialogue unwritten, leaving
 Duplass and Ray Romano ad-libbing much of the dialogue as they shot.
