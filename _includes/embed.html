@@ -11,7 +11,7 @@ h = .5631 * w
   allow="autoplay; fullscreen"
   allowfullscreen
   ></iframe>
-{% endif %}{% if include.url contains 'vimeo.com' %}
+{% elsif include.url contains 'vimeo.com' %}
 <iframe
   class="video-embed"
   src="{{include.url}}?autoplay={{include.autoplay | default:"1"}}&color=32CD32&title=0&byline=0&portrait=0"
@@ -23,7 +23,7 @@ h = .5631 * w
   mozallowfullscreen
   allowfullscreen
   ></iframe>
-{% endif %}{% if include.url contains 'dailymotion.com' %}
+{% elsif include.url contains 'dailymotion.com' %}
 <iframe
   class="video-embed"
   frameborder="0"
@@ -33,7 +33,7 @@ h = .5631 * w
   allow="autoplay; fullscreen"
   allowfullscreen
 ></iframe>
-{% endif %}{% if include.url contains 'soundcloud.com' %}
+{% elsif include.url contains 'soundcloud.com' %}
 <iframe
   width="{{include.width | default:"700"}}"
   height="300"
@@ -42,9 +42,10 @@ h = .5631 * w
   allow="autoplay; fullscreen"
   src="{{include.url}}"
   ></iframe>
-{% endif %}{% if include.type == 'figimage' %}
+{% else %}
 <figure><img 
   {% if include.style %}style="{{include.style}}"{% endif %}
+  {% if include.class %}class="{{include.class}}"{% endif %}
   src="{{include.url}}" 
 /><figcaption>{{include.caption}}</figcaption>
 </figure>

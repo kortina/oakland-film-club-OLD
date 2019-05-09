@@ -3,6 +3,8 @@
 if [ -z "$1" ]; then
     echo "Missing required argument, post title:"
     echo "./new-post.sh \"#n // Your Movie Title\""
+    echo "Last post:"
+    ls -1 _posts | tail -n -1
     exit 1
 fi
 
