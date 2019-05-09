@@ -35,3 +35,51 @@ or whenever that was, so we just played black clothes villains against white hil
 I remember when I started re-visiting the spaghetti westerns via Tarentino wondering why
 these westerns were part of the classic film canon--why would an Italian director from the 60s and
 70s revisit the sort of cheesy somewhat trashy genre of a decade or more earlier?
+
+#### Authority in the American West
+
+For both children and storytellers, I think the 'wild west' is a landscape where you can explore a
+world without established authority structures.
+
+As a child, authority is well defined and ever present in the presence of parents and adults. Their
+authority is an unquestioned given.
+
+As an individual member of society--particularly modern WWII society--authority is similarly well
+defined in most of our lives. In post WWII Europe, this authority was the military industrial
+complex. In America for much of the past century authority was very clearly imbued in institutions
+like the US Military and federal government, corporate hierarchy, mainstream media, and advertising
+(the voice of consumer capitalism telling us what we should revere and how we should express our
+values through purchasing behavior).
+
+These institutions were a ubiquitous and stable source of order and hierarchy for so long that it
+became easy to forget that their authority was some mixture of earned, arbitrary, and miraculous.
+
+Since reading Martin Gurri's excellent recent book [The Revolt of the Public and the Crisis of
+Authority in the New
+Millennium](https://medium.com/@kortina/the-revolt-of-the-public-and-the-crisis-of-authority-in-the-new-millennium-6158f2fcb488),
+I have become much more aware of the fragility of the socially constructed fabric and authority of
+these institutions, as well as the growing awareness of the general public that non of the emperors
+are wearing any clothes.
+
+The American West is an ideal landscape for exploring the behavior of individuals and groups
+operating without any of the constraints or benefits of modern institutional authority. It's a sort
+of picturesque Hobbesian state of nature where, as a storyteller, you can pose questions like:
+
+How much of our daily behavior and social interactions are a direct product of our knowledge of
+institutional authority and confidence it will be enforced?
+
+What kinds of cultural norms are the first to emerge in a frontier society, before they become
+codified as laws, and how are they enforced?
+
+What kinds of individuals obtain power and authority and what are the various means of doing so?
+
+What compels moral action and how likely are individuals to adopt a code of ethics in the absence of
+police enforcement?
+
+As public trust in twentieth century institutions and sources of authority continues to erode, these
+questions are becoming once again critical to consider, perhaps most popularly explored in fiction
+not of the American West but in Westeros, the fantastic world of _Game of Thrones._
+
+In many ways, the twenty-first century is headed back to the 'wild west' and stories set in these
+landscapes provide us a toolkit enabling us to run simulations that help us understand our position
+as individuals operating within worlds absent of stable and centralized authority.
