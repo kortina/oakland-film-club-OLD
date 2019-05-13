@@ -76,3 +76,9 @@ What kinds of individuals obtain power and authority and what are the various me
 
 What compels moral action and how likely are individuals to adopt a code of ethics in the absence of
 police enforcement?
+
+As I wrote in [Narrative, Intelligence, and
+AI](https://kortina.nyc/essays/notes-on-narrative-intelligence-and-ai/), fiction is an important
+tool for running deep simulations of alternative worlds and scenarios, and I think the frontier
+fiction of the 'wild west' is a great environment for understanding how the behaviors of individuals
+are likely to change if traditional sources of authority and coercion continue to erode.
