@@ -3,15 +3,16 @@ layout: default
 ---
 
 <header>
-    <p>{{page.date | date: "%e %b %Y"}} - {{page.author}}</p>
-    <h1>{{ page.title }}&nbsp;{%if page.draft %}(draft)&nbsp;{% endif %}</h1>
+  {% include date_and_author.html %}
+  <h1>{{ page.title }}&nbsp;{%if page.draft %}(draft)&nbsp;{% endif %}</h1>
 </header>
 
 <section style="{{ page.page_styles }}">
-{{ content }}
+  {{ content }}
 </section>
 
 <section>
-  <p>{{page.date | date: "%e %b %Y"}} - {{page.author}}</p>
+  <hr />
+  {% include date_and_author.html %}
   <p><a href="/">oaklandfilmclub.com</a></p>
 </section>

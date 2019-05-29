@@ -85,3 +85,8 @@ figcaption {
   font-style: italic;
   font-size: small;
 }
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+}

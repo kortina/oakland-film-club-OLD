@@ -1,0 +1,15 @@
+<p>
+  {{page.date | date: "%e %b %Y"}} - 
+  <a target="_blank" href={% case page.author|downcase %}
+     {% when 'kortina' %}
+     "https://kortina.nyc/"
+     {% when 'rob' %}
+     "https://www.robcheung.com/"
+     {% when 'robertcheung' %}
+     "https://www.robcheung.com/"
+     {% when 'craig' %}
+     "http://craigrcannon.com/"
+     {% else %}"#"
+     {% endcase %}
+    >{{page.author}}</a>
+</p>
