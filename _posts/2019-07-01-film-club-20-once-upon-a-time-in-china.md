@@ -15,19 +15,19 @@ caption="Once Upon a Time in China (1991)." %}
 
 ### Post
 
-OK, this is too good, but when I selected _Once Upon a Time in the West_ and had mentally prepared
-my remarks, I realized at the last minute I was actually mis-remembering _The Good, The Bad, and The Ugly_ instead.
+When I selected _Once Upon a Time in the West_ for film club a few weeks ago, I prepared
+some remarks that I realized at the last minute were actually about the wrong movie. I had mis-remembered the content of _The Good, The Bad, and The Ugly_ for that title.
 
 This week, I got 90% through writing remarks about _Once Upon a Time in China_ and realized they
 were all about another Jet Li favorite of mine, _Fist of Legend_. When we do _Once Upon a Time in
 America_, I am sure I'll end up writing about _A Bronx Tale_ instead.
 
 I was going to make this elaborate argument framing _Once Upon a Time in China_ as a sort of sister film to _Rocky IV_. Both are essentially action movies centered on hand to hand combat between representatives of
-nations embroiled in conflict that threatens to break into all out war. Both films constantly
-juxtapose clashing cultures throughout. And both films are fascinated with training, the lineage of
+nations embroiled in conflict that threatens to break into all out war. Both films contrast
+clashing cultures of the nations in conflict. And both films are fascinated with training, the lineage of
 different fighting styles, the modern vs the ancient, technology vs tradition.
 
-And then I was going to talk about training montages, Jet Li's one arm pullups, the _Rocky IV_
+I was going to talk about training montages, Jet Li's one arm pullups, the _Rocky IV_
 training montage, wax-on-wax-off in _Karate Kid_, Jean Claude Van Damme's splits, and of course, the
 one inch punch training with Pai Mei in _Kill Bill._
 
@@ -36,14 +36,16 @@ It was tight.
 But when I was looking for the clip of Jet Li's one arm pullups, I remembered that was _Fist of
 Legend_.
 
-Memory is kind of weird like that, where I'll have these vivid memories filed under the wrong
+My memory is kind of weird (dyslexic?) like that, where I'll have these vivid memories filed under the wrong
 titles.
 
 Growing up, a lot of the martial arts movies I knew were these eighties American action flicks, like
-I said _Karate Kid_ or Van Damme or Chuck Norris or Steven Seagal, and when, in middle school, I got ahold of Wu-Tang's _Enter the Wu-Tang (36 Chambers)_ I was like, damn, what kinds of kung-fu movies have I been
-missing? _Shaolin shadow boxing and the Wu-Tang sword style. If what you say is true, the Shaolin
-and the Wu-Tang could be dangerous. Do you think your Wu-Tang sword can defeat me? Bring da mutha
-fuckin ruckus..._
+I said _Karate Kid_ or Van Damme or Chuck Norris or Steven Seagal. In middle school, I got ahold of Wu-Tang's _Enter the Wu-Tang (36 Chambers)_ and I was like, damn, what kinds of kung-fu movies have I been
+missing?
+
+> Shaolin shadow boxing and the Wu-Tang sword style. If what you say is true, the Shaolin
+> and the Wu-Tang could be dangerous. Do you think your Wu-Tang sword can defeat me? Bring da mutha
+> fuckin ruckus...
 
 {% include embed.html url="https://www.youtube.com/embed/bhE4bdoWAAE" autoplay="0" %}
 
@@ -51,10 +53,9 @@ I didn't come across Jet Li and _Once Upon a Time in China_ until later, when I 
 school--I believe it was my friend Brett who first introduced me to the film, after we began
 studying Okinawan karate with an ex-Marine Corps pilot who was a substitute teacher at our school.
 
-In college, I wrote about this teacher in a workshop based on Phillip Lopate's [The Art of the Personal
-Essay](https://www.amazon.com/Art-Personal-Essay-Anthology-Classical/dp/038542339X?tag=kortina0e-20).
-
-One or our prompts for the class was Joseph Mitchell's [Mazie](https://www.newyorker.com/magazine/1940/12/21/mazie), and we were supposed to write about a 'character' who had left an impression on us:
+Later, in a college writing workshop based on Phillip Lopate's [The Art of the Personal
+Essay](https://www.amazon.com/Art-Personal-Essay-Anthology-Classical/dp/038542339X?tag=kortina0e-20),
+one or our prompts for the class was Joseph Mitchell's [Mazie](https://www.newyorker.com/magazine/1940/12/21/mazie), and we were supposed to write about a 'character' who had left an impression on us. I wrote about Capt. Daniel:
 
 > I remember when Captain Garrison Daniel introduced himself to \[my 11th grade English] class, telling us in a sentence how he used to be a fighter pilot in the U.S. Marine Corps, but during the Gulf War had been “shot up,” and, because he had some shrapnel lodged behind his eye and in his back near his spine, he had left the Corps, to become a teacher.
 >
@@ -73,8 +74,11 @@ One or our prompts for the class was Joseph Mitchell's [Mazie](https://www.newyo
 Without revisiting this essay, I would have told you how
 I was instantly enamored with Capt. Daniel, who was kind of like a character that walked straight out of the canon of film and literature I had grown up with... who had, against all odds, landed as a substitute teacher in my suburban high school, to lead my small band of friends and I through a cinematic training montage.
 
-What is kind of cool to realize, reading though this old poorly written essay, is that a big part of what was cool about Capt. Daniel was that he did really not treat us like high school kids--he told us personal stories about his past life, he put us through this kind of crazy physical training, he went to dinner with us, he would just hang out in a low key way that seemed like he actually just enjoyed our company.
+Now, when I read through this old poorly written essay, what strikes me is how Capt. Daniel would
+hang out with us after school, talk about kung-fu movies or books like _Shogun_ with us, share tales
+from his personal / past life, go to dinner with us.
 
-It was a really cool early lesson in how you could be friends with someone from a different
-generation based on just shared interest, vs some sort of de facto relationship like kid-grandparent or
-student-teacher or player-coach.
+I would bet there is a ton of professional advice and folk wisdom against letting a professional /
+hierarchical relationship like teacher-student feel anything like friendship, authored by the same
+people who say you should not work with your friends, but it just feels more human to break these
+walls.
