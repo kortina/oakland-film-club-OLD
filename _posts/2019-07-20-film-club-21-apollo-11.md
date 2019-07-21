@@ -71,7 +71,7 @@ is one of the most sublime. The thrill of working with a team of people, drillin
 everything to the level of precision and excellence in execution required to pull this off must have
 been unparalleled.
 
-This is why the denouement of this story, the return to Earth, and subsequent four day quarantine in
+This is why the denouement of this story, the return to Earth, and subsequent quarantine in
 an Airstream trailer, fascinates me.
 
 It points to a danger in the celebration of the sublime--if you attach meaning to something like the
