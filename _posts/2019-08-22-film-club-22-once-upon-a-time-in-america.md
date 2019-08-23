@@ -8,7 +8,8 @@ author: kortina
 >
 > Noodles : I like the stink of the streets. It makes me feel good. And I like the smell of it, it opens up my lungs.
 
-{% include embed.html url="/img/posts/022-once-upon-a-time-in-america.jpg" class="full-width"
+{% include embed.html url="/img/posts/022-once-upon-a-time-in-america.jpg" class="full-width" 
+caption="Once Upon a Time in America (1984)." %}
 
 I just watched this interview with Tarantino where the interviewer says _The Searchers_ was his
 'father / son Western' and Tarantino responds that _The Good, The Bad, and The Ugly_ was the
