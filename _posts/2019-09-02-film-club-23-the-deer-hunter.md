@@ -43,3 +43,4 @@ D'Angelo used to get high
 Trade your cleverness for bewilderment
 PTSD
 Jeannes Dielman
+post partem
