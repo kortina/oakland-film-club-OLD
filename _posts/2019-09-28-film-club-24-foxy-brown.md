@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Film Club #24: Foxy Brown"
+title: "Film Club #24 // Foxy Brown"
 author: kortina
 ---
 
