@@ -4,13 +4,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Plain Description -->
-	<title>{{ site.title }}</title>
+  <title>{{page.title}} -- {{ site.title }}</title>
 	<meta name="description" content="{{site.tagline}}">
 	<link rel="icon" type="image/png" href="/favicon.png">
 	
 	<!-- Google+ -->
 	<link rel="publisher" href="https://plus.google.com/{{site.googleplus}}"/>
-	<meta itemprop="name" content="{% if page.fulltitle %}{{page.fulltitle}}{% else %}{{page.title}} | {{ site.title }} {% endif %}">
+	<meta itemprop="name" content="{{page.title}}">
 	<meta itemprop="description" content="{site.tagline}}">
 	<meta itemprop="image" content="{% if page.image %}{{site.url}}{{page.image}}{% else %}{{site.url}}{{site.socialimg}}{% endif %}">
 	
