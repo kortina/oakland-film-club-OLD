@@ -10,9 +10,7 @@ author: peter
 
 This is one of my favorite movies. Very excited to share with everyone!
 
-A few notes:
-
-- Sorrentino is a fascinating director, but I actually haven't seen much of his work (I enjoyed his film, [Youth](https://www.youtube.com/watch?v=pSvgKy90t4Y), but not nearly as much as The Great Beauty). I have not seen The Young Pope (or the New Pope for that matter) nor "This Must Be The Place" which sounds totally wild.
+Sorrentino is a fascinating director, but I actually haven't seen much of his work (I enjoyed his film, [Youth](https://www.youtube.com/watch?v=pSvgKy90t4Y), but not nearly as much as The Great Beauty). I have not seen The Young Pope (or the New Pope for that matter) nor "This Must Be The Place" which sounds totally wild.
 
 ### Post
 
