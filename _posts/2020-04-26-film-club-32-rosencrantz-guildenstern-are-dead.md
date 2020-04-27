@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Film Club #34 // Rosencrantz & Guildenstern Are Dead"
+title: "Film Club #32 // Rosencrantz & Guildenstern Are Dead"
 author: robertcheung
 ---
 
 ### Post
+
 There are a few things that I love about this film.
 
 It is not just funny, but playful, meaning that it's a little more interactive and self-directed. The humor doesn't arise so much from intrinsically funny events, so much as it arises from the particular ways in which a viewer chooses to entertain a scene or piece of dialog. This is especially noticeable when reading the play, where I'd often find myself laughing at the same line for two or three unrelated reasons.
@@ -51,8 +52,6 @@ Little did they suspect that the years would end by wearing away the disharmony.
 
 For myth is at the beginning of literature, and also at its end.
 
-
 #### Borges and I
 
 [...see post on Perfect Blue](https://oaklandfilmclub.com/posts/film-club-15-perfect-blue/)
-
