@@ -1,4 +1,4 @@
 {
-  "vscodeMarkdownNotes.newNoteDirectory": "_posts"
-  "vscodeMarkdownNotes.newNoteTemplate": "---\nlayout: post\ntitle: '${noteName}'\nauthor: kortina\n---\n\n",
+  "vscodeMarkdownNotes.newNoteDirectory": "_posts",
+  "vscodeMarkdownNotes.newNoteTemplate": "---\nlayout: post\ntitle: '${noteName}'\nauthor: kortina\n---\n\n"
 }
