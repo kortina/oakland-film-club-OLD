@@ -1,0 +1,4 @@
+{
+  "vscodeMarkdownNotes.newNoteDirectory": "_p",
+  "vscodeMarkdownNotes.newNoteTemplate": "---\nlayout: post\ntitle: '${noteName}'\nauthor: kortina\ndate: ${date}\n---\n\n"
+}
