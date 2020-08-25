@@ -8,10 +8,11 @@ if [ -z "$1" ]; then
     exit 1
 fi
 
+dir="_p"
 d= "`date +'%Y-%m-%d'`"
 title="$1"
 t="`echo "$title" | iconv -t ascii//TRANSLIT | sed -E 's/[~\^]+//g' | sed -E 's/[^a-zA-Z0-9]+/-/g' | sed -E 's/^-+\|-+$//g' | tr A-Z a-z`"
-f="_posts/$t.md"
+f="$dir/$t.md"
 
 cat > $f <<- EOM
 ---
