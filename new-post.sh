@@ -8,15 +8,17 @@ if [ -z "$1" ]; then
     exit 1
 fi
 
+d= "`date +'%Y-%m-%d'`"
 title="$1"
 t="`echo "$title" | iconv -t ascii//TRANSLIT | sed -E 's/[~\^]+//g' | sed -E 's/[^a-zA-Z0-9]+/-/g' | sed -E 's/^-+\|-+$//g' | tr A-Z a-z`"
-f="_posts/`date +'%Y-%m-%d'`-$t.md"
+f="_posts/$t.md"
 
 cat > $f <<- EOM
 ---
 layout: post
 title: "$title"
 author: `id -un`
+date: $d
 ---
 
 ### Pre
