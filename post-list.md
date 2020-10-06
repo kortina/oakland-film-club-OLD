@@ -1,3 +1,9 @@
+[[The Death of Stalin]] - 2020-10-06
+[[The Act of Killing]] - 2020-09-29
+[[Some Shorts]] - 2020-09-22
+[[Four Lions]] - 2020-09-15
+[[Sometimes, Always, Never]] - 2020-09-01
+[[Hedwig and the Angry Inch]] - 2020-08-25
 [[salvador]] - 2020-08-18
 [[the-dark-knight]] - 2020-08-11
 [[fight-club]] - 2020-08-06
