@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#43 // Hedwig and the Angry Inch'
+title: '#043 // Hedwig and the Angry Inch'
 author: kortina
 date: 2020-08-25
 ---

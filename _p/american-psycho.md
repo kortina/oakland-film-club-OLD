@@ -3,7 +3,7 @@ author: robertcheung
 date: '2019-01-22'
 layout: post
 redirect_from: /posts/film-club-13-american-psycho/
-title: '#13 // American Psycho'
+title: '#013 // American Psycho'
 ---
 
 ### Pre

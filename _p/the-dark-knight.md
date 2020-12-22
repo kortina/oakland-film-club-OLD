@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#41 // The Dark Knight'
+title: '#041 // The Dark Knight'
 author: kortina
 date: 2020-08-11
 ---

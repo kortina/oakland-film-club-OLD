@@ -3,7 +3,7 @@ author: kortina
 date: '2018-12-28'
 layout: post
 redirect_from: /posts/film-club-12-gaslight/
-title: '#12 // Gaslight'
+title: '#012 // Gaslight'
 ---
 
 {% include embed.html type="figimage" url="/img/posts/011-gaslight.jpg" caption="Gaslight (1944)." %}

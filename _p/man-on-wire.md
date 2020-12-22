@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#39 // Man on Wire'
+title: '#039 // Man on Wire'
 author: kortina
 date: 2020-07-21
 ---

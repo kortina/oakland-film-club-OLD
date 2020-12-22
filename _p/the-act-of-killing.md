@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#47 // The Act of Killing'
+title: '#047 // The Act of Killing'
 author: kortina
 date: 2020-09-29
 ---

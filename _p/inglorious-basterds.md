@@ -3,7 +3,7 @@ author: kortina
 date: '2018-10-02'
 layout: post
 redirect_from: /posts/film-club-8-inglorious-basterds/
-title: '#8 // Inglorious Basterds'
+title: '#008 // Inglorious Basterds'
 ---
 
 ### Pre

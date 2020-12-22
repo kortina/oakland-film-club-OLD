@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#46 // Some Shorts'
+title: '#046 // Some Shorts'
 author: kortina
 date: 2020-09-22
 ---

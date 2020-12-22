@@ -3,7 +3,7 @@ author: peter
 date: '2020-01-16'
 layout: post
 redirect_from: /posts/film-club-30-the-great-beauty/
-title: '#30 // The Great Beauty'
+title: '#030 // The Great Beauty'
 ---
 
 {% include embed.html url="/img/posts/030-the-great-beauty.jpg" caption="The Great Beauty (2013)." %}

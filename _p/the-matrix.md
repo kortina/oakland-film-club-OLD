@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#38 // The Matrix'
+title: '#038 // The Matrix'
 author: kortina
 date: 2020-07-14
 ---

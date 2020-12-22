@@ -3,7 +3,7 @@ author: becky
 date: '2020-05-03'
 layout: post
 redirect_from: /posts/film-club-33-castro-street-quixote/
-title: '#33 // Castro Street + Quixote'
+title: '#033 // Castro Street + Quixote'
 ---
 
 This week Becky guest-(remote)-hosted, with 2 films from [Bruce

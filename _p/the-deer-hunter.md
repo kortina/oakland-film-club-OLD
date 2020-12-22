@@ -3,7 +3,7 @@ author: kortina
 date: '2019-09-02'
 layout: post
 redirect_from: /posts/film-club-23-the-deer-hunter/
-title: '#23 // The Deer Hunter'
+title: '#023 // The Deer Hunter'
 ---
 
 # Pre

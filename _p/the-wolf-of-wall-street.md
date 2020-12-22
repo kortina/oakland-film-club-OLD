@@ -3,7 +3,7 @@ author: Kortina
 date: '2018-08-21'
 layout: post
 redirect_from: /posts/film-club-6-the-wolf-of-wall-street/
-title: '#6 // The Wolf of Wall Street'
+title: '#006 // The Wolf of Wall Street'
 ---
 
 ### Pre

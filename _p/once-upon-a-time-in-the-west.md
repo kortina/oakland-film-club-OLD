@@ -3,7 +3,7 @@ author: kortina
 date: '2019-05-08'
 layout: post
 redirect_from: /posts/film-club-18-once-upon-a-time-in-the-west/
-title: '#18 // Once Upon a Time in the West'
+title: '#018 // Once Upon a Time in the West'
 ---
 
 {% include embed.html class="full-width" url="/img/posts/018-once-upon-a-time-in-the-west.jpg" caption="Once Upon a Time in the West, 1969." %}

@@ -3,7 +3,7 @@ author: Kortina
 date: '2018-07-10'
 layout: post
 redirect_from: /posts/film-club-5-the-return-of-the-pink-panther/
-title: '#5 // The Return of the Pink Panther'
+title: '#005 // The Return of the Pink Panther'
 ---
 
 ### Pre

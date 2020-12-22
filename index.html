@@ -2,15 +2,57 @@
 layout: default
 title: 'Oakland Film Club'
 fulltitle: 'Oakland Film Club // Latest'
+non_posts:
+  -
+    title: "#057 // From Dusk Till Dawn"
+    date: "2020-12-29"
+  -
+    title: "#056 // Platoon"
+    date: "2020-12-08"
+  -
+    title: "#055 // My Dinner with Andre"
+    date: "2020-12-01"
+  -
+    title: "#054 // Brigsby Bear"
+    date: "2020-11-17"
+  -
+    title: "#053 // Kajillionaire"
+    date: "2020-11-10"
+  -
+    title: "#052 // The Manchurian Candidatte"
+    date: "2020-11-03"
+  -
+    title: "#051 // What the Constitution Means to Me"
+    date: "2020-10-27"
+  -
+    title: "#050 // Far from Vietnam"
+    date: "2020-10-20"
+  -
+    title: "#049 // Dr. Strangelove"
+    date: "2020-10-13"
+  -
+    title: "#048 // The Death of Stalin"
+    date: "2020-10-06"
 ---
+
+{% assign non_posts = page.non_posts | sort: 'date' | reverse %}
+{% assign posts = site.p | sort: 'date' | reverse %}
+{% assign _films = non_posts | concat: posts %}
+{% assign films = _films | sort: 'title' | reverse %}
 
 <!-- fulltitle: This overrides the default page title, which is "{{page.tite}} | {{site.title}}" -->
 <!-- excerpt: If this isn't set, it'll pull your {{site.tagline}} for meta description-->
 
 <section>
   <h1>{{site.title}}</h1>
+  {% for film in films %}
+  {% unless film.draft %}
+    {% if film.url %}
+    <p><a href="{{ film.url }}">{{ film.title }}</a></p>
+    {% else %}
+      <p>{{film.title}} // {{film.date}}</p>
+    {% endif %}
+  {% endunless %}
+  {% endfor %}
 
-  {% assign posts = site.p | sort: 'date' | reverse %}{% for post in posts %}{% unless post.draft %}
-  <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-  {% endunless %}{% endfor %}
 </section>

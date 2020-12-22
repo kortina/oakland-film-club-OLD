@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#37 // The White Ribbon'
+title: '#037 // The White Ribbon'
 author: kortina
 date: 2020-07-07
 ---

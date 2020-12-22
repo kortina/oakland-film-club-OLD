@@ -3,7 +3,7 @@ author: kortina
 date: '2019-03-31'
 layout: post
 redirect_from: /posts/film-club-17-akira/
-title: '#17 // Akira'
+title: '#017 // Akira'
 ---
 
 ### Pre

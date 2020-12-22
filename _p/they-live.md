@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#36 // They Live'
+title: '#036 // They Live'
 author: kortina
 date: 2020-06-23
 ---

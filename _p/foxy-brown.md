@@ -3,7 +3,7 @@ author: kortina
 date: '2019-09-28'
 layout: post
 redirect_from: /posts/film-club-24-foxy-brown/
-title: '#24 // Foxy Brown'
+title: '#024 // Foxy Brown'
 ---
 
 {% include embed.html url="/img/posts/024-foxy-brown.jpg" caption="Foxy Brown (1974)." %}

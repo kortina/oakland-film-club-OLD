@@ -3,7 +3,7 @@ author: kortina
 date: '2019-10-30'
 layout: post
 redirect_from: /posts/film-club-25-jojo-rabbit/
-title: '#25 // Jojo Rabbit'
+title: '#025 // Jojo Rabbit'
 ---
 
 {% include embed.html url="/img/posts/025-jojo-rabbit.jpg" caption="Jojo Rabbit (2019)." %} 

@@ -3,7 +3,7 @@ author: kortina
 date: '2018-11-20'
 layout: post
 redirect_from: /posts/film-club-10-spirited-away/
-title: '#10 // Spirited Away'
+title: '#010 // Spirited Away'
 ---
 
 ### Pre

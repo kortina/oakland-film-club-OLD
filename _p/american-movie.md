@@ -3,7 +3,7 @@ author: craig
 date: '2019-11-26'
 layout: post
 redirect_from: /posts/film-club-27-american-movie/
-title: '#27 // American Movie'
+title: '#027 // American Movie'
 ---
 
 {% include embed.html url="/img/posts/027-american-movie.png" caption="American Movie (1999)." %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#40 // Fight Club'
+title: '#040 // Fight Club'
 author: kortina
 date: 2020-08-06
 ---

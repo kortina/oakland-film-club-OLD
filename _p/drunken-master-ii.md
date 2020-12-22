@@ -3,7 +3,7 @@ author: kortina
 date: '2020-05-08'
 layout: post
 redirect_from: /posts/film-club-34-drunk-master-ii/
-title: '#34 // Drunken Master II'
+title: '#034 // Drunken Master II'
 ---
 
 {% include embed.html url="https://s3.amazonaws.com/4rk/drunken-master-ii.s3s.jpg" caption="Drunken Master II (1994) / The Legend of Drunken Master (2000)" %}

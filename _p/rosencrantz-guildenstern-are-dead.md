@@ -3,7 +3,7 @@ author: robertcheung
 date: '2020-04-26'
 layout: post
 redirect_from: /posts/film-club-32-rosencrantz-guildenstern-are-dead/
-title: '#32 // Rosencrantz & Guildenstern Are Dead'
+title: '#032 // Rosencrantz & Guildenstern Are Dead'
 ---
 
 ### Post
