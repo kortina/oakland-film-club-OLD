@@ -9,7 +9,7 @@ if [ -z "$1" ]; then
 fi
 
 dir="_p"
-d= "`date +'%Y-%m-%d'`"
+d="$(date +'%Y-%m-%d')"
 title="$1"
 t="`echo "$title" | iconv -t ascii//TRANSLIT | sed -E 's/[~\^]+//g' | sed -E 's/[^a-zA-Z0-9]+/-/g' | sed -E 's/^-+\|-+$//g' | tr A-Z a-z`"
 f="$dir/$t.md"
