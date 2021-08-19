@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#078 // Le Samouraï"
+title: "#080 // Le Samouraï"
 author: robcheung
 date: 2021-08-08
 ---
