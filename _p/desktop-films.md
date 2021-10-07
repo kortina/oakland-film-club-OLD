@@ -35,7 +35,7 @@ Fredrik Knudsen, [TempleOS Down the Rabbit Hole](https://www.youtube.com/watch?
 >
 > I haven't had an opportunity to query Rivette about his deletion of Léaud's climactic scene, but I suspect that this hair-raising sequence which showed Léaud's character alone in his room in a state of hysteria oscillating between despair, and more briefly, exuberance, carried too many suggestions of Léaud's subsequent real life emotional difficulties for Rivette to feel comfortable about retaining it.... The sequence shows him crying, screaming, howling like an animal, banging his head against the wall, busting a closet door, writhing on the floor, then calming down and picking up his harmonica.
 >
-> After throwing away all three of the secrete messages he has been trying for most of the serial to decode, he starts playing his harmonica ecstatically, throws his clothes and other belongings out into the hall, dances about maniacally, and then plays the harmonica some more.
+> After throwing away all three of the secret messages he has been trying for most of the serial to decode, he starts playing his harmonica ecstatically, throws his clothes and other belongings out into the hall, dances about maniacally, and then plays the harmonica some more.
 
 ### Chloe Galibert-Laine (from Foresickness)
 
