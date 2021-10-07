@@ -1,4 +1,22 @@
 {
   "vscodeMarkdownNotes.newNoteDirectory": "_p",
-  "vscodeMarkdownNotes.newNoteTemplate": "---\nlayout: post\ntitle: '${noteName}'\nauthor: kortina\ndate: ${date}\n---\n\n"
+  "vscodeMarkdownNotes.newNoteTemplate": "---\nlayout: post\ntitle: '${noteName}'\nauthor: kortina\ndate: ${date}\n---\n\n",
+  "cSpell.words": [
+    "Berto's",
+    "Chloé",
+    "Foresickness",
+    "Fredrik",
+    "Galibert",
+    "Laîné",
+    "Léaud",
+    "Lonsdale's",
+    "MAGNASANTI",
+    "moma",
+    "Ocasla",
+    "redditors",
+    "Rivette",
+    "Rosenbaum",
+    "SIMCITY",
+    "undeciphered"
+  ]
 }
