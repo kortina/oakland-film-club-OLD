@@ -1,7 +1,7 @@
 # Site settings
 title: Oakland Film Club
 tagline: '...'
-url: 'http://oaklandfilmclub.com' # The base hostname & protocol for your site. Use it if you need absolute URL's
+# url: 'http://oaklandfilmclub.com' # The base hostname & protocol for your site. Use it if you need absolute URL's
 permalink: /posts/:title/
 collections:
   p:
